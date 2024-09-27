@@ -4,7 +4,7 @@
 
 #Important Note: To become an admin in the Stylish eCommerce app, create an email with Outlook.com.
 
-Welcome to **The Stylist**, a cutting-edge eCommerce platform built with HWT (Hypertext Web Technology). This project harnesses the power of Redis for caching to provide a seamless shopping experience. Ready to get started? Just fork the repository and use the provided Docker Compose file!
+Welcome to **The Stylist**, a cutting-edge eCommerce platform built with JWT (Json Web Token). This project harnesses the power of Redis for caching to provide a seamless shopping experience. Ready to get started? Just fork the repository and use the provided Docker Compose file!
 
 ## 🚀 Prerequisites
 
