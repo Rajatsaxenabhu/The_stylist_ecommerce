@@ -24,5 +24,13 @@ First, fork this repository to your own GitHub account.
 Next, clone your forked repository to your local machine:
 
 ```bash
-git clone <your-forked-repo-url>
-cd <your-repo-name>
+git clone <https://github.com/Rajatsaxenabhu/The_stylist_ecommerce>
+
+# Screenshots
+# UI Screenshots
+!["This is the home page where the products is seen and authentication"](images/Home.png)
+!["This is the Checkout page"](images/Add_cart.png)
+![""](images/Add_product.png)
+!["Admin Page to add and delete products by Authentication"](images/Admin.png)
+!["This is the revenue graph"](images/Revenue_graph.png)
+!['This is the payment page'](images/Stripe.png)
